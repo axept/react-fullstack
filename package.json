@@ -1,0 +1,11 @@
+{
+  "name": "react-fullstack",
+  "version": "0.0.1",
+  "description": "Fullstack React.js Application boilerplate for 2016-2017 years",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StartupMakers/react-fullstack.git"
+  },
+  "author": "Startup Makers",
+  "license": "ISC"
+}
