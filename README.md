@@ -36,5 +36,6 @@
 17. <a href="https://robertknight.github.io/posts/webpack-dll-plugins/">webpack DllPlugin</a> для оптимизации размера JavaScript bundle.
 18. <a href="https://github.com/reactjs/react-router-redux">react-router-redux</a> в качестве роутера.
 19. <a href="http://eslint.org/">ESLint</a> и <a href="https://github.com/airbnb/javascript">eslint-config-airbnb</a> с небольшим изменением - не использовать точку с запятой.
+20. <a href="https://github.com/nodemailer/nodemailer">nodemailer</a> для отправки сообщений на e-mail.
 
 Какие пункты можно изменить? Какие добавить? Что можно сделать лучше? Оставьте своё мнение в [Issues](https://github.com/StartupMakers/react-fullstack/issues).
