@@ -17,7 +17,7 @@
 
 Пока видим такой набор:
 
-1. React 15.
+1. React 16.x
 2. На сервере - Node.js и Express.
 3. <a href="https://github.com/cssinjs/jss">JSS</a> для генерации оптимизированного Critical CSS и Server-Side Rendering.
 4. <a href="http://redux.js.org/">Redux</a> для взаимодействия внутри приложения. <a href="https://facebook.github.io/relay/">Relay</a> может быть опционально сбоку.
